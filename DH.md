@@ -3,9 +3,10 @@
 
 ## Introduction
 
-![Digital Humanities](image_1.png){width=150px style="float:right;"}
+[//]: # (![Digital Humanities](image_1.png){width=150px style="float:right;"})
 
-<img src="image_1.png" width="50%" />
+<img src="image_1.png" width="50%" />  
+&nbsp;
 
 [Watch this video on YouTube](https://www.youtube.com/embed/k-_GmWw3pvI?list=PLgb7wGdsYkJz-1EzcJ0XFdk1mEGxpfCHl)
 
